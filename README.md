@@ -4,7 +4,7 @@
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahbodhastam&theme=ayu-mirage&layout=compact)](https://github.com/MahbodHastam/)
 
-- ⛏️ I’m currently working on [Linstaller](https://github.com/MahbodHastam/Linstaller) and [Stylism](https://github.com/MahbodHastam/Stylism)
+- ⛏️ I’m currently working on [Linstaller](https://github.com/MahbodHastam/Linstaller) and [Stylism](https://github.com/MahbodHastam/Stylism) and a _Personal Project_
 
 - 📫 Telegram: [@DibDmini](https://t.me/DibDmini) 
 
