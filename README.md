@@ -2,7 +2,9 @@
 
 [![](https://github-readme-stats.vercel.app/api?username=mahbodhastam&show_icons=true&theme=ayu-mirage&hide=issues)](https://github.com/MahbodHastam/)
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahbodhastam&theme=ayu-mirage&layout=compact)](https://github.com/MahbodHastam/)
+<a href="https://github.com/MahbodHastam/" style="text-align: center;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahbodhastam&theme=ayu-mirage&layout=compact" />
+</a>
 
 - ⛏️ I’m currently working on [Linstaller](https://github.com/MahbodHastam/Linstaller) and [Stylism](https://github.com/MahbodHastam/Stylism) and _Personal Projects_
 
