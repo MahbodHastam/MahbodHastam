@@ -6,7 +6,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahbodhastam&theme=ayu-mirage&layout=compact" />
 </a>
 
-- ⛏️ I’m currently working on [Linstaller](https://github.com/MahbodHastam/Linstaller) and [Stylism](https://github.com/MahbodHastam/Stylism) and _Personal Projects_
+- ⛏️ I’m currently working on [Linstaller](https://github.com/MahbodHastam/Linstaller), [Stylism](https://github.com/MahbodHastam/Stylism) and _Personal Projects_
 
 - 📫 Telegram: [@DibDmini](https://t.me/DibDmini) 
 
