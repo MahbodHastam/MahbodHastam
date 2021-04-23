@@ -1,6 +1,6 @@
 ### Hi there <img src="https://github.com/MahbodHastam/MahbodHastam/blob/main/hi.gif" width="20px" />
 
-- ⛏️ I’m currently working on [Linstaller](https://github.com/MahbodHastam/Linstaller), [Stylism](https://github.com/MahbodHastam/Stylism) and _Personal Projects_
+- ⛏️ I’m currently working on _Personal Projects_
 
 - 📫 Telegram: [@DibDmini](https://t.me/DibDmini) 
 
