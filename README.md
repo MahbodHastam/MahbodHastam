@@ -1,12 +1,15 @@
 ### Hi there <img src="https://github.com/MahbodHastam/MahbodHastam/blob/main/hi.gif" width="20px" />
 
+[![](https://github-readme-stats.vercel.app/api?username=mahbodhastam&show_icons=true&theme=ayu-mirage)](https://github.com/MahbodHastam/)
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahbodhastam&theme=ayu-mirage&layout=compact)](https://github.com/MahbodHastam/)
+
 - ⛏️ I’m currently working on _Personal Projects_
 
 - 📫 Telegram: [@DibDmini](https://t.me/DibDmini) 
 
-<details>   
+<!-- <details>   
  <summary>⚡️ My GitHub Stats</summary>
-<!--   [![](https://github-readme-stats.vercel.app/api?username=mahbodhastam&show_icons=true&theme=ayu-mirage&hide=issues)](https://github.com/MahbodHastam/) -->
   <br>
   <a href="https://github.com/MahbodHastam/">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahbodhastam&show_icons=true&theme=ayu-mirage&hide=issues" />
@@ -15,7 +18,7 @@
   <a href="https://github.com/MahbodHastam/">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahbodhastam&theme=ayu-mirage&layout=compact" />
   </a>
-</details>
+</details> -->
 
 <!--
 - 🌱 I’m currently learning ...
