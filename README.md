@@ -4,6 +4,8 @@
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahbodhastam&theme=ayu-mirage&layout=compact)](https://github.com/MahbodHastam/)
 
+<hr>
+
 - ⛏️ I’m currently working on _Personal Projects_
 
 - 📫 Telegram: [@DibDmini](https://t.me/DibDmini) 
