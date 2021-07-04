@@ -6,7 +6,7 @@
 
 <hr>
 
-- ⛏️ I’m currently working on _Personal Projects_
+- ⛏️ I’m currently working on some _Personal Projects_
 
 - 📫 Telegram: [@DibDmini](https://t.me/DibDmini) 
 
