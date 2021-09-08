@@ -12,8 +12,8 @@
 
 ###### 📫 Telegram: [@DibDmini](https://t.me/DibDmini) 
 
-###### 🎧 Listening to...
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qxacu9x13sy1ljv9r0npc3869&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=qxacu9x13sy1ljv9r0npc3869&redirect=true)
+<!-- ###### 🎧 Listening to...
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qxacu9x13sy1ljv9r0npc3869&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=qxacu9x13sy1ljv9r0npc3869&redirect=true) -->
 
 </div>
 <!-- <details>   
