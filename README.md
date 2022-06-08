@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi there <img src="https://github.com/MahbodHastam/MahbodHastam/blob/main/hi.gif" width="20px" />
+### Hi there <img src="https://github.com/MahbodHastam/MahbodHastam/blob/main/hi.gif" width="20px" height="20px" />
  
 [![](https://github-readme-stats.vercel.app/api?username=mahbodhastam&show_icons=true&theme=ayu-mirage)](https://github.com/MahbodHastam/)
 
