@@ -10,7 +10,7 @@
 
 ###### ⛏️ I’m currently working on some _Personal Projects_
 
-###### 📫 Telegram: [@DibDmini](https://t.me/DibDmini) 
+###### 📫 Telegram: [@MahbodAhmadi](https://t.me/MahbodAhmadi) 
 
 <!-- ###### 🎧 Listening to...
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qxacu9x13sy1ljv9r0npc3869&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=qxacu9x13sy1ljv9r0npc3869&redirect=true) -->
