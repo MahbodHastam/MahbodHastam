@@ -4,7 +4,9 @@
  
 [![](https://github-readme-stats.vercel.app/api?username=mahbodhastam&show_icons=true&theme=ayu-mirage)](https://github.com/MahbodHastam/)
 
+<!--
 [![Wakatime](https://wakatime.com/badge/user/482ba61e-12a7-4b37-9e2e-1f24d324e525.svg?style=flat)](https://wakatime.com/@MahbodHastam)
+-->
 
 <!--
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahbodhastam&theme=ayu-mirage&layout=compact)](https://github.com/MahbodHastam/)
