@@ -5,15 +5,9 @@
 </p>
 
 
----
-
-
 ## 👨‍💻 About Me
 
 I'm a **Web Developer**, specializing in building robust and scalable web applications. I build full-stack applications with **Laravel**, **Vue**, and **Nuxt**. Currently, I'm diving deep into **cloud technologies** and **DevOps** practices to bridge the gap between development and operations.
-
-
----
 
 
 ## 🛠️ My Tech Stack
@@ -35,7 +29,7 @@ I'm a **Web Developer**, specializing in building robust and scalable web applic
 </p>
 
 
----
+<!-- ---
 
 
 ## 📈 GitHub Stats
@@ -43,16 +37,13 @@ I'm a **Web Developer**, specializing in building robust and scalable web applic
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MahbodHastam&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahbodHastam&layout=compact&theme=radical" />
-</p>
+</p> -->
 
 <!-- WakaTime stats -->
 <!-- <p align="center">
   <img src="https://wakatime.com/badge/user/482ba61e-12a7-4b37-9e2e-1f24d324e525.svg?style=flat" />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MahbodHastam&theme=radical&layout=compact" />
 </p> -->
-
-
----
 
 
 ## 📫 Let's Connect
